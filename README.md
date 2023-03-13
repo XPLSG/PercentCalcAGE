@@ -1,2 +1,4 @@
-# yuzdehesaplama
-Made in Turkey, By XPLSG With Python
+# PercentCalcAGE
+By Ahmet Yavuz
+Made in Turkey
+Created with Python
